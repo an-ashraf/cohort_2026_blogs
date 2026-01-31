@@ -16,3 +16,6 @@ https://gitasversioncontolsystem.hashnode.dev/why-version-control-exists-the-pen
 
 Understanding Network Devices
 https://networkdevicesstory.hashnode.dev/understanding-network-devices
+
+How DNS Resolution Work
+https://resolutionworkdofdns.hashnode.dev/
