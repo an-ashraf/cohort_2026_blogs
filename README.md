@@ -19,3 +19,16 @@ https://networkdevicesstory.hashnode.dev/understanding-network-devices
 
 How DNS Resolution Work
 https://resolutionworkdofdns.hashnode.dev/
+
+Getting Started with cURL
+https://ashrafansari.hashnode.dev/getting-started-with-curl?showSharer=true
+
+Understanding HTML Tags and Elements
+https://ashrafansari.hashnode.dev/understanding-html-tags-and-elements
+
+CSS Selectors 101: Targeting Elements with Precision
+https://ashrafansari.hashnode.dev/css-selectors-101-targeting-elements-with-precision
+
+Emmet for HTML: A Beginner’s Guide to Writing Faster Markup
+https://ashrafansari.hashnode.dev/emmet-because-your-keyboard-deserves-a-break
+
